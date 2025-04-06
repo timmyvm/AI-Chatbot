@@ -1,3 +1,4 @@
 INFO:server:POST /chat - message: Hi!
 INFO:server:POST /chat - message: hello!
 INFO:server:POST /chat - message: Im good 
+INFO:server:POST /chat - message: hi
